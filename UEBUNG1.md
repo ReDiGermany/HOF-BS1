@@ -10,9 +10,13 @@ Server oder Desktop Betriebssysteme. Server z.B. Debian, Desktop z.B. Windows 10
 ```
 
 b) Welches Betriebssystem ist am häufigsten am dem Desktop-Markt vertreten?
-
+```
+Windows 10
+```
 c) Welches Betriebssystem ist am häufigsten am dem Server-Markt vertreten?
-
+```
+Diverse Distributionen von Linux
+```
 d) Was ist der Unterschied bei Echtzeitbetriebssystemen zwischen harter und weicher Echtzeit?
 
 e) Was sind die Grundfunktionalitäten von Betriebssystemen?
