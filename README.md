@@ -11,3 +11,4 @@ Disclaimer: nichts hier ist aus einer offiziellen Quelle. Fehler bleiben vorbeha
 * [Übung 3 (Weitere Kommandos)](Uebung3.md)
     * [Sort, uniq und awk](Uebung3.md#übung-32-sort-uniq-und-awk)
     * [Fragen](Uebung3.md#übung-33-fragen)
+* [Übung 4.1: Shell-Programmierung 1](UEBUNG4.md)
