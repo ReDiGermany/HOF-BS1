@@ -2,7 +2,7 @@
 
 *ACHTUNG!* Folgende Syntax wird hier benutzt: 
 ```bash
-// Alles in den Boxen sind Kommandos & Antworten aus der Maschine! (so sehen Kommentare aus)
+# Alles in den Boxen sind Kommandos & Antworten aus der Maschine! (so sehen Kommentare aus)
 $ Kommandos fangen mit $ an
 der rest sind Antworten.
 ```
