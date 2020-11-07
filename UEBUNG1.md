@@ -5,6 +5,9 @@ Ich nutze das Linux Subsystem (Debian). Folge dazu:
 # Übung 1.2: Einführung in Betriebssysteme
 a) Welche Arten von Betriebssystemen kennen Sie und nennen Sie dazu jeweils
 ein Betriebssystem, welches in diese Kategorie fällt.
+```
+Server oder Desktop Betriebssysteme. Server z.B. Debian, Desktop z.B. Windows 10
+```
 
 b) Welches Betriebssystem ist am häufigsten am dem Desktop-Markt vertreten?
 
