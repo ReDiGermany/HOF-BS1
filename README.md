@@ -13,3 +13,5 @@ Disclaimer: nichts hier ist aus einer offiziellen Quelle. Fehler bleiben vorbeha
     * [Fragen](UEBUNG3.md#übung-33-fragen)
 * [Übung 4: Shell-Programmierung 1](UEBUNG4.md)
 * [Übung 5: Shell-Programmierung 2](UEBUNG5.md)
+* [Übung 6: Systemaufrufe (system calls)](UEBUNG6.md)
+    * [Prozesse](UEBUNG6.md#übung-62-prozesse)
