@@ -47,8 +47,9 @@ Bei FCFS und SJF handelt es sich um nicht-präemptive Algorithmen.
 g) Zeichnen Sie Prozess-Zeit-Diagramm für den Scheduling-Algorithmus Round
 Robin (RR) mit den Prozessinformationen von Aufgabe 7.1d und berechnen
 Sie die Wartezeit für jeden Prozess und die durchschnittlicher Wartezeit aller Prozesse. Quantum = 3.
-```
-```
+
+![image2](UEBUNG7g.jpg "Image with round robin graphically")
+
 
 h) Was passiert wenn das Quantum für Round Robin (RR) zu groß gewählt ist?
 ```
