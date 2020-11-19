@@ -48,9 +48,18 @@ g) Zeichnen Sie Prozess-Zeit-Diagramm für den Scheduling-Algorithmus Round
 Robin (RR) mit den Prozessinformationen von Aufgabe 7.1d und berechnen
 Sie die Wartezeit für jeden Prozess und die durchschnittlicher Wartezeit aller Prozesse. Quantum = 3.
 
+| Prozess | Ankunft | Ausführzeit | Wartezeit (FCFS/SJF) |
+| --- |:---:|:---:|:---:|
+| P1 | 2 | 4 | 8 |
+| P2 | 0 | 5 | 8 |
+| P3 | 3 | 2 | 6 |
+| P4 | 1 | 3 | 2 |
+|  |  |  | 6 |
+
 ![image2](UEBUNG7g.jpg "Image with round robin graphically")
 
 
 h) Was passiert wenn das Quantum für Round Robin (RR) zu groß gewählt ist?
 ```
+
 ```
