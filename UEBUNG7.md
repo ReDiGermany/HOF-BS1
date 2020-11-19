@@ -3,16 +3,19 @@
 a) Was macht der Kernel-Scheduler?
 ```
 Der Kernel-Scheduler sorgt dafür, dass jeder aktuell laufende Prozess seine Rechenzeit zugewiesen bekommt.
+Ermöglicht einen "Mehrprogrammbetrieb" und somit eine Quasiparallelität
 ```
 
 b) Was sind die Anforderungen an den Kernel-Scheduler aus Benutzersicht?
 ```
 Jedes Programm (bzw jeder Prozess) soll möglichst schnell laufen.
 Dabei sollten jedoch Prozesse mit einem Fenster, welches gesehen wird, besonders flüssig laufen.
+Echtzeitbenutzer wollen zwingend dass Schranken eingehalten werden.
 ```
 c) Was sind die Anforderungen an den Kernel-Scheduler aus Systemsicht?
 ```
 Möglichst faire Aufteilung und kein Prozess darf untergehen.
+Möglichst höher Durchsatz, maximierung der Prozessorlast
 ```
 
 d) Zeichnen Sie Prozess-Zeit-Diagramm für den Scheduling-Algorithmus FirstCome First-Served (FCFS) und Shortest Job First (SJF) mit den folgenden Prozessinformationen und berechnen Sie die Wartezeit für jeden Prozess und die
@@ -31,7 +34,7 @@ durchschnittliche Wartezeit.
 
 e) Für welchen Typ von Computersystem sind FCFS und SJF besonders geeignet?
 ```
-Für Computersysteme, die einem bestimmten Zweck dienen und diesen immer und immer wieder ausführen. (Also nicht für z.B. Personal Computer, die immer alles mögliche gleichzeitig tun sollen.)
+Für Stapelverarbeitungssystem.
 ```
 
 f) Was ist der Unterschied zwischen einem nicht-präemptiver und einem präemptiver Scheduling Algorithmus? Um welche Form von Scheduling-Algorithmus
