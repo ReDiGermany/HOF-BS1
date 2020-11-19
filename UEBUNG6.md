@@ -258,5 +258,5 @@ i) Welcher Nice-Wert wird standardmäßig unter Linux vergeben?
 j) Starten Sie nochmal in einem Terminal htop und ändern Sie den Nice-Wert
 von dem laufenden Programm auf -20. Welches Kommando ist dafür notwendig?
 ```bash
-# f8?
+$ sudo renice -20 {pid}
 ```

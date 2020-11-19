@@ -15,3 +15,5 @@ Disclaimer: nichts hier ist aus einer offiziellen Quelle. Fehler bleiben vorbeha
 * [Übung 5: Shell-Programmierung 2](UEBUNG5.md)
 * [Übung 6: Systemaufrufe (system calls)](UEBUNG6.md)
     * [Prozesse](UEBUNG6.md#übung-62-prozesse)
+
+Fragestellungen sind 1:1 Kopiert aus den *Betriebssysteme 1* Übungsaufgaben. Danke dafür an [Prof. Dr. Florian Adamsky](https://github.com/cit/)
