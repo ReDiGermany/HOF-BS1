@@ -61,5 +61,5 @@ Sie die Wartezeit für jeden Prozess und die durchschnittlicher Wartezeit aller 
 
 h) Was passiert wenn das Quantum für Round Robin (RR) zu groß gewählt ist?
 ```
-
+Es wird zu FCFS. Wenn es zu klein wird, haben wir mehr Zeit für den Kontextwechsel, wie für den prozess selber.
 ```
