@@ -17,5 +17,8 @@ Disclaimer: nichts hier ist aus einer offiziellen Quelle. Fehler bleiben vorbeha
     * [Prozesse](UEBUNG6.md#übung-62-prozesse)
 * [Übung 7.1: Scheduling für Uniprozessor-Systeme](UEBUNG7.md)
 * [Übung 8.1: Scheduling für Multiprozessor- und Echtzeit-Systeme](UEBUNG8.md)
+* [Übung 8.1: Scheduling für Multiprozessor- und Echtzeit-Systeme](UEBUNG8.md)
+* [Übung 9.1: Speichermanagement](UEBUNG9.md)
+* [Übung 10.1: Dateisysteme](UEBUNG10.md)
 
 Fragestellungen sind 1:1 Kopiert aus den *Betriebssysteme 1* Übungsaufgaben. Danke dafür an [Prof. Dr. Florian Adamsky](https://github.com/cit/)
